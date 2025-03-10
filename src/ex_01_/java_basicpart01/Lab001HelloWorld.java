@@ -1,6 +1,6 @@
-package ex_01_.java_basic;
+package ex_01_.java_basicpart01;
 
-public class Laboo1HelloWorld {
+public class Lab001HelloWorld {
     public static void main(String[] args) {
         System.out.println("first lab01 hello world !!!" );
 
